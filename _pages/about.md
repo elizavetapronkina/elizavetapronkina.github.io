@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome to my webpage! I am a PhD Candidate in Economics at the [University Carlos III of Madrid (UC3M)](http://economics.uc3m.es). I am working under the supervision of Professor [Jesús M. Carro](http://www.eco.uc3m.es/~jcarro/). I am an applied microeconomist, and my research covers different topics, including Public, Gender, and Digital Economics.
 
-I am on the 2020-2021 Job Market and am available for interviews. 
+I am on the 2020-2021 Job Market and am available for interviews.
+
+You can find my [CV](https://drive.google.com/file/d/19NqFYT1au6oeVhB5Pb8vtmZtLEBOoD4m/view?usp=sharing) here
 
 **Job Market Paper [USSR, Education, Work History, Fertility Choices, and Later-Life Outcomes](https://drive.google.com/file/d/1q_1jp9ZOpznkIMF09WR_dy6CehgMO2nq/view?usp=sharing) (with Telmo Pérez-Izquierdo)**
 
