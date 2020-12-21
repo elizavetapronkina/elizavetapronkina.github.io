@@ -28,15 +28,6 @@ Conferences
 * The 2019 ENTER Jamboree at Tilburg University, The Netherlands, 2019
 * 12th International Conference on Migration and Development, Spain, 2019
 * 15th Annual International Conference on Sports: Economic, Management, Marketing & Social Aspects, Athens, Greece, 2015
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Awards
 ======
