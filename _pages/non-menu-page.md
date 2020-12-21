@@ -1,9 +1,10 @@
 ---
+layout: archive
 title: "References"
 permalink: /references/
 author_profile: true
-redirect_from: 
-  - "/references
+redirect_from:
+  - /references
 ---
   
 * Prof. [Jesús M. Carro](http://www.eco.uc3m.es/~jcarro/) (Main Advisor) at [email](jcarro@eco.uc3m.es)
