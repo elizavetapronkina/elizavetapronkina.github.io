@@ -28,10 +28,3 @@ This paper estimates the impact of Airbnb’s Nondiscrimination Policy in the US
 Previously circulated as “Caregiving to the Elderly and Employment Decisions”
 #------
 This paper studies the trade-off faced by adult individuals in Europe between participating in the labor market and providing informal care to their elderly mothers. Using  Survey of Health, Ageing, and Retirement in Europe (SHARE), I develop a bivariate simultaneous choice model of work and informal care. To correct for the endogeneity of employment status in care decision, I exploit the heterogeneous impact of the Great Recession on European countries as an exclusion restriction in a non-linear setting. When individuals between 50 and below statutory retirement age participate in the labor market, the probability of providing informal care to elder mothers decreases by about nine percentage points. 
-
-#Site-wide configuration
-#------
-#The main configuration file for the site is in the base directory in [_config.yml]#(https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-#Example: editing a markdown file for a talk
-#![Editing a markdown file for a talk](/images/editing-talk.png)
