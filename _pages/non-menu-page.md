@@ -1,17 +1,27 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+permalink: /references/
+title: "References"
+excerpt: ""
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/references/"
+  - "/references.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Prof. [Jesús M. Carro](http://www.eco.uc3m.es/~jcarro/) (Main Advisor) 
+Department of Economics
+University Carlos III of Madrid 
+Getafe, Spain 
+jcarro[at]eco.uc3m.es
 
-Heading 1
-======
+Prof. [Jan Stuhler](https://janstuhler.com)
+Department of Economics
+University Carlos III of Madrid 
+Getafe, Spain 
+jan.stuhler[at]uc3m.es
 
-Heading 2
-======
+Prof. [Juan J. Dolado](http://dolado.blogspot.com) 
+Department of Economics
+University Carlos III of Madrid 
+Getafe, Spain 
+dolado[at]eco.uc3m.es
