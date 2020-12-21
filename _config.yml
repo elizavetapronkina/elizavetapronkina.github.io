@@ -89,7 +89,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "epronkin[at]eco.uc3m.es"
-  CV               : "[CV](https://drive.google.com/file/d/19NqFYT1au6oeVhB5Pb8vtmZtLEBOoD4m/view?usp=sharing)"
+  CV               : "https://drive.google.com/file/d/19NqFYT1au6oeVhB5Pb8vtmZtLEBOoD4m/view?usp=sharing"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
