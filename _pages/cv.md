@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include EPronkina_CV.pdf %}
 
 Education
 ======
