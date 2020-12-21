@@ -83,8 +83,10 @@ author:
   name             : "Elizaveta Pronkina"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Economics"
-  location         : "Office 15.1.16, Calle Madrid 126, 28903, Getafe (Madrid), Spain"
-  employer         : "Department of Economics, University Carlos III of Madrid"
+  location         : "Office 15.1.16, Calle Madrid 126, 
+                      Getafe (Madrid), Spain, 28903"
+  employer         : "Department of Economics 
+                      University Carlos III of Madrid"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
