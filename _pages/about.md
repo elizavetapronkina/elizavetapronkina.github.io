@@ -15,7 +15,7 @@ I am on the 2020-2021 Job Market and am available for interviews.
 **Job Market Paper [USSR, Education, Work History, Fertility Choices, and Later-Life Outcomes](https://drive.google.com/file/d/1q_1jp9ZOpznkIMF09WR_dy6CehgMO2nq/view?usp=sharing) (with Telmo Pérez-Izquierdo)**
 
 [UC3M Working Papers - July 2020](https://drive.google.com/file/d/1msgCJf3HK6oeYdtBSnuMT7sSNLrn34os/view?usp=sharing)
-#------
+
 This paper investigates how living under the USSR affected life decisions of East European individuals. We exploit retrospective data from the SHARELIFE survey and historical statistics to analyze respondents’ choices from 1950 to 1990. In particular, we compare individuals in Lithuania (former USSR) and Poland (former Soviet Bloc), exploiting both countries’ common history until the Second World War. We find that Lithuanian women increased educational attainment and accumulated two more years of work experience by age 50 relative to Polish women. These findings highlight the importance of country-specific factors when in determining the legacy of socialist policies. 
 
 **Online Discrimination and (Self) Regulation: Evaluating Airbnb’s Nondiscrimination Policy (with Michelangelo Rossi)**
