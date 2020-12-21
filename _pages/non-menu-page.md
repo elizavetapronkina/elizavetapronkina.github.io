@@ -1,13 +1,12 @@
 ---
-permalink: /references/
+layout: archive
 title: "References"
-excerpt: ""
+permalink: /references/
 author_profile: true
 redirect_from: 
-  - "/references/"
-  - "/references.html"
+  - "/references
 ---
-
+  
 * Prof. [Jesús M. Carro](http://www.eco.uc3m.es/~jcarro/) (Main Advisor) at [email](jcarro@eco.uc3m.es)
 
 Department of Economics, University Carlos III of Madrid, Getafe, Spain
