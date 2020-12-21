@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University Carlos III of Madrid, Getafe (Madrid), Spain 
+  * Ph.D. in Economics, Spring 2021 (expected)
+  * M.A. in Economic Analysis, 2017
 
-Work experience
+* New Economic School, Moscow, Russia
+  * M.A. in Economics, 2015
+
+* Moscow State University, Moscow, Russia
+  * B.A. in Economics, 2012 
+
+
+Conferences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Student’s Workshop University Carlos III of Madrid, Spain, from 2017
+* The 2019 ENTER Jamboree at Tilburg University, The Netherlands, 2019
+* 12th International Conference on Migration and Development, Spain, 2019
+* 15th Annual International Conference on Sports: Economic, Management, Marketing & Social Aspects, Athens, Greece, 2015
   
 Skills
 ======
@@ -36,24 +38,19 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* FPI Grant by the Spanish Government, from 2016
+* Teaching Excellence Awards, University Carlos III of Madrid: Microeconometrics (MA), Game Theory (MA), Economics of Education (BA), Mathematics II (BA), 2018 - 2019
+* Full scholarship and tuition waiver Master in Economic Analysis, University Carlos III of Madrid, 2015
+* Scholarship for academic excellence, Moscow State University, 2009 - 2012
+
+Skills
+======
+* IT packages: STATA, QGIS, Matlab, R, Microsoft Office
+* Languages: Russian (native), English (full professional proficiency), Italian (intermediate), Spanish (basic)
   
-Talks
+Activities
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Volunteer for Banco de Alimentos de Madrid, from 2019
+* Mentor for New Economic School (NES) Female Society, from 2019
