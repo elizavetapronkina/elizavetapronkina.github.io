@@ -84,13 +84,12 @@ author:
   avatar           : "EPronkina.png"
   bio              : "PhD Candidate in Economics
                       University Carlos III of Madrid"
-  location         : "Office 15.1.16, Calle Madrid 126 
-                      Getafe (Madrid), Spain, 28903"
+  location         : Office 15.1.16, C/Madrid 126 
+                     Getafe, Spain, 28903
   employer         : #"Department of Economics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "epronkin[at]eco.uc3m.es
-                     elipronkina[at]gmail.com"
+  email            : "epronkin[at]eco.uc3m.es"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
