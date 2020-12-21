@@ -11,9 +11,9 @@ redirect_from:
 
 Department of Economics, University Carlos III of Madrid, Getafe, Spain
 
-* Prof. [Jan Stuhler](https://janstuhler.com)
+* Prof. [Jan Stuhler](https://janstuhler.com) at [email](jan.stuhler@uc3m.es)
 
-Department of Economics, University Carlos III of Madrid, Getafe, Spain at [email](jan.stuhler@uc3m.es) 
+Department of Economics, University Carlos III of Madrid, Getafe, Spain 
 
 * Prof. [Juan J. Dolado](http://dolado.blogspot.com) at [email](dolado@eco.uc3m.es)
 
