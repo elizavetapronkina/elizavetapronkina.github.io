@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include EPronkina_CV.pdf %}
+You can find my [CV](https://drive.google.com/file/d/19NqFYT1au6oeVhB5Pb8vtmZtLEBOoD4m/view?usp=sharing) here
 
 Education
 ======
