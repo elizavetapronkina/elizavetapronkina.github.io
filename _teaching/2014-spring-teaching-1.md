@@ -12,21 +12,21 @@ I received Teaching Excellence Awards in Microeconometrics, Game Theory,  Econom
 ### Course Organizer at the University Carlos III of Madrid 
 
 * M.A. level: 
-  ** Mathematics Preparatory Course (2018/2019, 2019/2020, 2020/2021 (online))
-	** Syllabus 2020,  Topic 1 (Slides & PS), Topic 2 (Slides & PS), Topic 3 (Slides & PS), Topic 4 (Slides & PS)
+	* Mathematics Preparatory Course (2018/2019, 2019/2020, 2020/2021 (online))
+	* Syllabus 2020,  Topic 1 (Slides & PS), Topic 2 (Slides & PS), Topic 3 (Slides & PS), Topic 4 (Slides & PS)
 
 * Ph.D. level: 
-  ** Mathematics Preparatory Course (2018/2019)
+  * Mathematics Preparatory Course (2018/2019)
 
 ### Teaching Assistant at the University Carlos III of Madrid
 
 * M.A. level: 
-  ** Microeconometrics with Prof. Raquel Carrasco (2017/2018, 2018/2019), 
-  ** Game Theory with Prof. Francisco Marhuenda (2018/2019)
+  * Microeconometrics with Prof. Raquel Carrasco (2017/2018, 2018/2019), 
+  * Game Theory with Prof. Francisco Marhuenda (2018/2019)
 
 * B.A. level: 
-  ** Advanced Mathematics with Prof. Juan Pablo Rincón Zapatero (2016/2017, 2017/2018, 2018/2019)
-  ** Economics of Education with Prof. Jesús M. Carro (2017/2018, 2018/2019)
-  ** Mathematics I with Prof. Carmelo Nuñez-Sanz (2017/2018)
-  ** Mathematics II with Prof. Francisco Marhuenda (2016/2017, 2017/2018)
-  ** Microeconomics with Prof. Johannes Schneider (2016/2017)
+  * Advanced Mathematics with Prof. Juan Pablo Rincón Zapatero (2016/2017, 2017/2018, 2018/2019)
+  * Economics of Education with Prof. Jesús M. Carro (2017/2018, 2018/2019)
+  * Mathematics I with Prof. Carmelo Nuñez-Sanz (2017/2018)
+  * Mathematics II with Prof. Francisco Marhuenda (2016/2017, 2017/2018)
+  * Microeconomics with Prof. Johannes Schneider (2016/2017)
