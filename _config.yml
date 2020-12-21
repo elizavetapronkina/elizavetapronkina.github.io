@@ -84,8 +84,7 @@ author:
   avatar           : "EPronkina.png"
   bio              : "PhD Candidate in Economics
                       University Carlos III of Madrid"
-  location         : Office 15.1.16, C/Madrid 126 
-                     Getafe, Spain, 28903
+  location         : "C/Madrid 126, Getafe, Spain"
   employer         : #"Department of Economics"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -98,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -202,7 +201,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -244,8 +243,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
