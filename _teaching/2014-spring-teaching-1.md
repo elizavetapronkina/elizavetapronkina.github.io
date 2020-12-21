@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I received Teaching Excellence Awards in Microeconometrics, Game Theory,  Economics of Education, Mathematics II. In two courses, I was the principal lecturer and responsible for developing the course curriculum. I gave seminars and lectures, classes in computer laboratories. Moreover, I designed and graded home assignments, midterms, and exams as a part of my teaching duties in some courses.
 
 Heading 1
 ======
