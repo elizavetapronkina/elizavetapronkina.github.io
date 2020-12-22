@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "References"
+title: ""
 permalink: /references/
 author_profile: true
 redirect_from:
