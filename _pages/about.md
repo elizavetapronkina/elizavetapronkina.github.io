@@ -20,7 +20,7 @@ You can find my [CV](https://drive.google.com/file/d/19NqFYT1au6oeVhB5Pb8vtmZtLE
 
 This paper investigates how living under the USSR affected life decisions of East European individuals. We exploit retrospective data from the SHARELIFE survey and historical statistics to analyze respondents’ choices from 1950 to 1990. In particular, we compare individuals in Lithuania (former USSR) and Poland (former Soviet Bloc), exploiting both countries’ common history until the Second World War. We find that Lithuanian women increased educational attainment and accumulated two more years of work experience by age 50 relative to Polish women. These findings highlight the importance of country-specific factors when in determining the legacy of socialist policies. 
 
-## Online Discrimination and (Self) Regulation: Evaluating Airbnb’s Nondiscrimination Policy (with Michelangelo Rossi)
+## Online Discrimination and (Self) Regulation: Evaluating Airbnb’s Nondiscrimination Policy (with [Michelangelo Rossi](https://michelangelorossi.github.io))
 
 ##### New version coming soon
 
